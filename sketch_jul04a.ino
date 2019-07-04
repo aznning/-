@@ -41,7 +41,7 @@ void loop()
    digitalWrite(6,HIGH);
    digitalWrite(5,LOW);
    digitalWrite(3,HIGH);
-   digitalWrite(4,low);
+   digitalWrite(4,LOW);
    delay(1000);
  }
   void leftward()
